@@ -1,0 +1,13 @@
+{
+  "name": "heartbeat",
+  "version": "0.0.0",
+  "description": "Android app backend server",
+  "main": "server.js",
+  "repository": "",
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "oauth": "^0.9.14",
+    "request": "^2.79.0",
+    "twitter": "^1.7.0"
+  }
+}
